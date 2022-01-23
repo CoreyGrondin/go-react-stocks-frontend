@@ -3,3 +3,5 @@
 Simple React frontend to show stock/crypto stats/information
 
 Used in combination with backend here: [go-react-stocks-backend](https://github.com/CoreyGrondin/go-react-stocks-backend)
+
+<sub><sub><sub><sub>CSS is my passion :)</sub></sub></sub></sub>
